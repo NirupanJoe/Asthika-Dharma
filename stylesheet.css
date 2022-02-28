@@ -1,0 +1,215 @@
+.nav-item a.nav-link.active {
+    color: #f60 !important;
+}
+
+.nav-item .nav-link:hover {
+    color: #f60 !important;
+}
+
+.nav-link {
+    color: #2d3e50 !important;
+    padding: 0 20px !important;
+}
+
+.nav-link .fab.fa-youtube {
+    font-size: 30px;
+}
+
+.navbar-nav {
+    font-size: 17px;
+}
+
+.fw-300 {
+    font-weight: 400 !important;
+}
+
+.img-fluid {
+    height: 450px !important;
+    width: 80%;
+}
+
+.carousel-indicators .active {
+    background-color: #f60 !important;
+}
+
+.carousel-indicators.button button {
+    width: 3px !important;
+    padding: 3.3px 3px !important;
+    border-radius: 0 !important;
+    margin: 3px !important;
+}
+
+.carousel-caption {
+    color: white !important;
+}
+
+.border-start.border-light {
+    border-left: 1px solid #f60 !important;
+}
+
+section h6 {
+    font-weight: 700;
+}
+
+.fa-youtube-square,
+.fa-chalkboard-teacher,
+.fa-book {
+    color: #f60;
+}
+
+.fa-youtube-square:hover,
+.fa-chalkboard-teacher:hover,
+.fa-book:hover {
+    color: #2d3e50;
+}
+
+.btn {
+    font-size: 14px;
+}
+
+.btn.btn-outline-danger {
+    color: white;
+    background-color: #f60 !important;
+    border: 2px solid #f60;
+}
+
+.btn.btn-outline-danger:hover {
+    color: #f60;
+    background-color: white !important;
+    border: 2px solid #f60;
+}
+
+blockquote h6 {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+blockquote h6:hover {
+    color: #f60;
+}
+
+.card.bg {
+    background: url(./img/diya.jpg) fixed no-repeat;
+    height: fit-content;
+    background-size: cover;
+}
+
+.card-text.px {
+    padding: 20px 15em;
+}
+
+@media (max-width:768px) {
+    .card-text.px {
+        padding: 0;
+    }
+}
+
+h2.fw-900 {
+    font-weight: 900;
+    font-size: 2.5em;
+}
+
+.card-img-overlay P {
+    padding: 25px 20VW;
+}
+
+.card-img-overlay h2 {
+    font-weight: 900;
+}
+
+.card.text-white {
+    border: none;
+}
+
+.col-sm-6 .card {
+    border: none;
+    padding: 32px;
+    margin: 32px 16px;
+}
+
+.card-title.ps-4.pt-2 {
+    font-weight: 400;
+}
+
+.ps-4.pt-4 h5 {
+    color: #f60;
+}
+
+.carousel-indicators .active {
+    background-color: #f60 !important;
+}
+
+.carousel-indicators [data-bs-target] {
+    border: 1px solid;
+    border-radius: 50%;
+    width: 5px !important;
+    padding: 1px 0 !important;
+    margin: 0 12px !important;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    width: 25px !important;
+}
+
+article {
+    background-color: #212121;
+    color: #74757f;
+    padding: 2em 0;
+}
+
+.col-lg-4.col-md-12 h5 a {
+    color: white;
+}
+
+.d-flex p a {
+    color: #74757f;
+}
+
+.col-lg-6.col-sm-10 p a {
+    color: white;
+}
+
+@media(max-width:765px) {
+    .row.text-center.py-5 {
+        padding: 5px !important;
+    }
+}
+
+.email {
+    background-color: #212121;
+    border-bottom: 1px solid white;
+    color: white;
+}
+
+.form-control.form-1 {
+    background-color: #212121;
+    border: none;
+    color: white;
+}
+
+.form-control.form-1:focus {
+    background-color: #212121;
+    border: none;
+    box-shadow: none;
+    color: white;
+}
+
+.icon {
+    background-color: rgba(255, 102, 0, 0.795);
+    color: rgba(255, 255, 255, 0.781);
+    border: 1px solid rgba(255, 102, 0, 0.164);
+    padding: 3px 18px;
+}
+
+.d-flex p:hover {
+    color: #f60;
+}
+
+.d-flex a:hover {
+    color: #f60;
+}
+
+.testimonial {
+    width: 25%;
+}
